@@ -27,9 +27,9 @@
     "ad_on_native": true
   },
   "settings": {
-    "interstitial_every_n": 3,
-    "interstitial_cooldown_seconds": 60,
-    "rewarded_ad_free_minutes": 60
+    "interstitial_every_n": 1,
+    "interstitial_cooldown_seconds": 5,
+    "rewarded_ad_free_minutes": 2
   },
   "review": {
     "enabled": true,
