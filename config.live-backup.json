@@ -4,10 +4,10 @@
 
   "ad_network": "admob",
   "ad_ids": {
-    "admob_app_open": "ca-app-pub-9962340446501377/9833817435",
-    "admob_interstitial": "ca-app-pub-9962340446501377/2146899105",
-    "admob_rewarded": "ca-app-pub-9962340446501377/6001549484",
-    "admob_native": "ca-app-pub-9962340446501377/9111937715",
+    "admob_app_open": "ca-app-pub-9962340446501377/5558258982",
+    "admob_interstitial": "ca-app-pub-9962340446501377/9824807058",
+    "admob_rewarded": "ca-app-pub-9962340446501377/4665733734",
+    "admob_native": "ca-app-pub-9962340446501377/5236579373",
     "meta_interstitial": "",
     "meta_rewarded": "",
     "meta_native": "",
