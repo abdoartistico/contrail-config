@@ -2,7 +2,7 @@
   "adsb_lol_base": "",
   "adsb_fi_base": "",
 
-  "ad_network": "admob",
+  "ad_network": "none",
   "ad_ids": {
     "admob_app_open": "ca-app-pub-3940256099942544/9257395921",
     "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
