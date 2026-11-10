@@ -20,11 +20,12 @@
     "levelplay_native": ""
   },
   "features": {
-    "ad_on_app_open": true,
-    "ad_on_flight_open": true,
-    "ad_on_tab_switch": true,
-    "ad_on_rewarded": true,
-    "ad_on_native": true
+    "ad_on_app_open": false,
+    "ad_on_flight_open": false,
+    "ad_on_tab_switch": false,
+    "ad_on_rewarded": false,
+    "ad_on_native": true,
+    "native_spots": ["home"]
   },
   "settings": {
     "interstitial_every_n": 1,
